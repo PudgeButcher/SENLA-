@@ -1,0 +1,14 @@
+C:\Users\Pudge\source\repos\SENLA - Тарасов\Задание 3\bin\Debug\Задание 3.exe.config
+C:\Users\Pudge\source\repos\SENLA - Тарасов\Задание 3\bin\Debug\Задание 3.exe
+C:\Users\Pudge\source\repos\SENLA - Тарасов\Задание 3\bin\Debug\Задание 3.pdb
+C:\Users\Pudge\source\repos\SENLA - Тарасов\Задание 3\obj\Debug\Задание 3.csproj.CoreCompileInputs.cache
+C:\Users\Pudge\source\repos\SENLA - Тарасов\Задание 3\obj\Debug\Задание 3.exe
+C:\Users\Pudge\source\repos\SENLA - Тарасов\Задание 3\obj\Debug\Задание 3.pdb
+C:\Users\Pudge\source\repos\SENLA - Тарасов\Задание 3\obj\Debug\Задание 3.csprojAssemblyReference.cache
+C:\Users\Pudge\Desktop\SENLA - Тарасов\Задание 3\bin\Debug\Задание 3.exe.config
+C:\Users\Pudge\Desktop\SENLA - Тарасов\Задание 3\bin\Debug\Задание 3.exe
+C:\Users\Pudge\Desktop\SENLA - Тарасов\Задание 3\bin\Debug\Задание 3.pdb
+C:\Users\Pudge\Desktop\SENLA - Тарасов\Задание 3\obj\Debug\Задание 3.csprojAssemblyReference.cache
+C:\Users\Pudge\Desktop\SENLA - Тарасов\Задание 3\obj\Debug\Задание 3.csproj.CoreCompileInputs.cache
+C:\Users\Pudge\Desktop\SENLA - Тарасов\Задание 3\obj\Debug\Задание 3.exe
+C:\Users\Pudge\Desktop\SENLA - Тарасов\Задание 3\obj\Debug\Задание 3.pdb
